@@ -7,7 +7,7 @@ Description: User GapMinder to create a dashboard that can be dynamically filter
 ## Investment Dashboard
 Description: Created a dashboard that can be dynamically changed based on user input:
 
-** Index Analysis
+**Index Analysis**
 User can select multiple indices with the start and end period and type of graph (Adjusted Close, Open Price, Close Price, etc.). Based on this the graph and correlation plot will be updated
 
 *Index Line chart
