@@ -15,9 +15,6 @@ User can select multiple indices with the start and end period and type of graph
 
 User can select multiple stocks based on ticker with the start and end period and type of graph (Adjusted Close, Open Price, Close Price, etc.). Based on this the graph and correlation plot will be updated
 
-*Stock Correlation Graph*
-![image](https://user-images.githubusercontent.com/51999864/147277833-18451c89-6096-4910-b9f4-6c6ee28a07f7.png)
-
 **Stock Analytics**
 
 This shows various stock indicators based on the tickers selected. The data is collected from Marketwatch. 
