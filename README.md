@@ -26,5 +26,9 @@ Based on the tickers selected by the user, the dashboard will select the latest 
 **Cryptocurrency Analysis**
 Based on the crytpocurrency selected by the user, it shows the line graph along with the correlation
 
+**Example of Dashboard**
+
+https://user-images.githubusercontent.com/51999864/151156431-121fd095-70b9-40a3-9b9a-8593bd7b9e1b.mp4
+
 
 
